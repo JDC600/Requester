@@ -9,7 +9,7 @@ for dato in datos:
     requests.post(url, allow_redirects=False, data={
         'nombre': dato,
         'icono': dato,
-        'enlace': dato, 
+        'enlace': dato,
         'enviar': 'Enviar Alta'
     })
 

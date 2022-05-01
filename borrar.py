@@ -1,7 +1,7 @@
 import requests, os, random, string, json
 
 
-id = 1
+id = 0
 while True:
     id+=1
     strId = str(id)

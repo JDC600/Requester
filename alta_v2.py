@@ -15,4 +15,5 @@ while True:
         'enlace': enlace, 
         'enviar': 'Enviar Alta'
     })
-    print ('Mandando Nombre: %s, Icono: %s, Enlace: %s' % (nombre, icono, enlace))
+    print(f"Mandando Nombre: {nombre}, Icono: {icono}, Enlace: {enlace}")
+    # print ('Mandando Nombre: %s, Icono: %s, Enlace: %s' % (nombre, icono, enlace))

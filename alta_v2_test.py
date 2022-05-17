@@ -1,8 +1,8 @@
 import requests, random, string
 
-ip = 'localhost'
+ip = '2daw.esvirgua.com'
 
-url = 'http://'+ip+'/Ejercicios/DWES/Repaso/ejerciciosServidor/3_Minijuegos_Juanma/app/php/index.php?accion=alta'
+url = 'https://'+ip+'/18/3_Minijuegos_Icono/app/php/index.php?accion=alta'
 
 letras = string.ascii_letters + string.digits + '!@#$%^&*()'
 
